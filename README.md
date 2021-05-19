@@ -3,12 +3,12 @@
 
 <p align="left">
   <a target="_blank" href="https://mailhide.io/e/sMrBCPXY"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="h1n054ur's Email" /></a>
-  <a target="_blank" href="https://github.com/obsimad"><img src="https://komarev.com/ghpvc/?username=h1n054ur&label=Profile%20Views" alt="h1n054ur's Profile Views" /></a>
+  <a target="_blank" href="https://github.com/h1n054ur"><img src="https://komarev.com/ghpvc/?username=h1n054ur&label=Profile%20Views" alt="h1n054ur's Profile Views" /></a>
 </p>
 
 <ul>
   <li><b>My Site</b>: <a target="_blank" href="https://haniumer.com/">Click Here</a></li>
-  <li><b>Quote I Live By</b>: Now is better than Never.</li>
+  <li><b>Quote I Live By</b>: Now is Better than Never.</li>
 </ul>
 
 
