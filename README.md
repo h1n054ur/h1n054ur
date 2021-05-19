@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/h1n054ur/h1n054ur/master/Hey.gif" width="30px">, I'm h1n054ur</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/h1n054ur/h1n054ur/master/cipher.gif"></h1>
 <h3 align="center">A passionate self-taught developer from Australia.</h3>
 
 <p align="center">
