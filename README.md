@@ -2,7 +2,7 @@
 <h3 align="center">A passionate self-taught developer from Australia.</h3>
 
 <p align="left">
-  <a target="_blank" href="https://mailhide.io/e/Bvn1tbnZ"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="h1n054ur's Email" /></a>
+  <a target="_blank" href="https://mailhide.io/e/sMrBCPXY"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="h1n054ur's Email" /></a>
   <a target="_blank" href="https://github.com/obsimad"><img src="https://komarev.com/ghpvc/?username=h1n054ur&label=Profile%20Views" alt="h1n054ur's Profile Views" /></a>
 </p>
 
