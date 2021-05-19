@@ -14,7 +14,7 @@
 
 <h3> Spotify - Now Playing 🎧</h3>
 <p align="center">
-  <a target="_blank" href="https://open.spotify.com/user/4k60x76rkda4xerg0g7m3cqcy"><img src="https://obsimad-github.vercel.app/api/spotify" alt="Spotify's Now Playing" width="350" /></a>
+  <a target="_blank" href="https://open.spotify.com/user/1cb9oxfto9fd9km6fjdbmza3z"><img src="https://obsimad-github.vercel.app/api/spotify" alt="Spotify's Now Playing" width="350" /></a>
 </p>
 
 
