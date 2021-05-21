@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://haniumer.com"><img src="https://img.shields.io/static/v1?label=h1n054ur&message=Webpage&color=blue&logo=github" alt="h1n054ur's Webpage" /></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://mailhide.io/e/sMrBCPXY" onclick="popup=window.open('https://mailhide.io/e/sMrBCPXY','mailhidepopup','width=580,height=635'); return false;"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="h1n054ur's Email" /></a>
+  <a href="https://mailhide.io/e/JabtY4fT" onclick="popup=window.open('https://mailhide.io/e/JabtY4fT','mailhidepopup','width=580,height=635'); return false;"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="h1n054ur's Email" /></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/h1n054ur"><img src="https://komarev.com/ghpvc/?username=h1n054ur&label=Profile%20Views" alt="h1n054ur's Profile Views" /></a>
 </p>
 
