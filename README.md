@@ -13,15 +13,25 @@
   <a><b>Quote I Live By</b>: Now is Better than Never.</a>
 </ul>
 
-<h3 align="center"> Spotify - Now Playing 🎧</h3>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/1cb9oxfto9fd9km6fjdbmza3z"><img src="https://obsimad-github.vercel.app/api/spotify" alt="Spotify's Now Playing" width="350" /></a>
-</p>
-
-
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/h1n054ur">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=blueberry" alt="h1n054ur's GitHub Stats" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=blueberry" alt="h1n054ur's Top Languages" />
   </a>
 </p>
+
+---
+
+# 📅 Daily Commit Streak
+
+> **Last updated:** `YYYY-MM-DD`  
+> **Current streak:** `X days`
+
+---
+
+Welcome to the **Daily Commit Tracker**!  
+This section is automatically updated and committed every day to maintain an unbroken chain of contributions on GitHub.
+
+---
+
+> _On a mission to build the longest streak of consecutive commits!_  
