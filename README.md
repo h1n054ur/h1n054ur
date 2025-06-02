@@ -22,10 +22,12 @@
 
 ---
 
+<div align="center">
+
 # 📅 Daily Commit Streak
 
-> **Last updated:** `2025-06-02`
-> **Current streak:** `1 days`
+**Last updated:** `2025-06-02`  
+**Current streak:** `1 days`
 
 ---
 
@@ -34,4 +36,6 @@ This section is automatically updated and committed every day to maintain an unb
 
 ---
 
-> _On a mission to build the longest streak of consecutive commits!_  
+> _On a mission to build the longest streak of consecutive commits!_
+
+</div>
