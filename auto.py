@@ -8,10 +8,10 @@ Requirements:
   (GitHub Actions will inject this automatically).
 
 Configuration (edit these before first run):
-    OWNER     = "your-github-username"    # ← replace with your GitHub username or org
-    REPO      = "your-repo-name"          # ← replace with your repository name
-    BRANCH    = "main"                    # ← branch where README.md lives
-    FILE_PATH = "README.md"               # ← path to the README file in the repo
+    OWNER     = "h1n054ur"    # ← replace with your GitHub username or org
+    REPO      = "h1n054ur"    # ← replace with your repository name
+    BRANCH    = "master"      # ← branch where README.md lives
+    FILE_PATH = "README.md"   # ← path to the README file in the repo
 """
 
 import os
@@ -24,9 +24,9 @@ from datetime import date, datetime, timedelta
 
 # ─── CONFIGURATION ───────────────────────────────────────────────────────────────
 OWNER     = "h1n054ur"    # ← replace
-REPO      = "h1n054ur"          # ← replace
-BRANCH    = "master"                    # ← or your default branch
-FILE_PATH = "README.md"               # ← adjust if your README is elsewhere
+REPO      = "h1n054ur"    # ← replace
+BRANCH    = "master"      # ← or your default branch
+FILE_PATH = "README.md"   # ← adjust if your README is elsewhere
 # ────────────────────────────────────────────────────────────────────────────────
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -66,8 +66,8 @@ def get_file_info():
 def build_new_content(old_text, today_iso):
     """
     - Parse the existing text to find:
-        > **Last updated:** `YYYY-MM-DD`
-        > **Current streak:** `X days`
+        **Last updated:** `YYYY-MM-DD`
+        **Current streak:** `X days`
       If found, update them. If not found, insert them immediately after the title line.
 
     - Compute new streak:
@@ -81,12 +81,13 @@ def build_new_content(old_text, today_iso):
 
     # 1) Extract old date and old streak from existing lines (if present)
     for line in lines:
-        if line.startswith("> **Last updated:**"):
-            parts = line.split("`")
+        stripped = line.strip()
+        if stripped.startswith("**Last updated:**"):
+            parts = stripped.split("`")
             if len(parts) >= 2:
                 old_date_str = parts[1]  # YYYY-MM-DD
-        elif line.startswith("> **Current streak:**"):
-            parts = line.split("`")
+        elif stripped.startswith("**Current streak:**"):
+            parts = stripped.split("`")
             if len(parts) >= 2:
                 # inside backticks: "X days"
                 try:
@@ -99,7 +100,11 @@ def build_new_content(old_text, today_iso):
 
     # 2) Compute new streak based on date difference
     try:
-        old_date_obj = datetime.strptime(old_date_str, "%Y-%m-%d").date() if old_date_str else None
+        old_date_obj = (
+            datetime.strptime(old_date_str, "%Y-%m-%d").date()
+            if old_date_str
+            else None
+        )
     except Exception:
         old_date_obj = None
 
@@ -118,11 +123,14 @@ def build_new_content(old_text, today_iso):
     updated_streak = False
     new_lines = []
     for line in lines:
-        if line.startswith("> **Last updated:**"):
-            new_lines.append(f"> **Last updated:** `{today_iso}`")
+        stripped = line.strip()
+        if stripped.startswith("**Last updated:**"):
+            indent = line[: len(line) - len(line.lstrip())]
+            new_lines.append(f"{indent}**Last updated:** `{today_iso}`")
             updated_last = True
-        elif line.startswith("> **Current streak:**"):
-            new_lines.append(f"> **Current streak:** `{new_streak} days`")
+        elif stripped.startswith("**Current streak:**"):
+            indent = line[: len(line) - len(line.lstrip())]
+            new_lines.append(f"{indent}**Current streak:** `{new_streak} days`")
             updated_streak = True
         else:
             new_lines.append(line)
@@ -136,21 +144,25 @@ def build_new_content(old_text, today_iso):
                 insert_at = idx + 1
                 break
         # Insert both tags right after the title
-        new_lines.insert(insert_at, f"> **Last updated:** `{today_iso}`")
-        new_lines.insert(insert_at + 1, f"> **Current streak:** `{new_streak} days`")
+        new_lines.insert(insert_at, f"**Last updated:** `{today_iso}`")
+        new_lines.insert(insert_at + 1, f"**Current streak:** `{new_streak} days`")
 
     elif updated_last and not updated_streak:
         # If Last updated was replaced but no streak line existed, insert streak right below it
         for idx, line in enumerate(new_lines):
-            if line.startswith("> **Last updated:**"):
-                new_lines.insert(idx + 1, f"> **Current streak:** `{new_streak} days`")
+            if line.strip().startswith("**Last updated:**"):
+                indent = line[: len(line) - len(line.lstrip())]
+                new_lines.insert(
+                    idx + 1, f"{indent}**Current streak:** `{new_streak} days`"
+                )
                 break
 
     elif not updated_last and updated_streak:
         # If streak was replaced but no last-updated line existed, insert last-updated above it
         for idx, line in enumerate(new_lines):
-            if line.startswith("> **Current streak:**"):
-                new_lines.insert(idx, f"> **Last updated:** `{today_iso}`")
+            if line.strip().startswith("**Current streak:**"):
+                indent = line[: len(line) - len(line.lstrip())]
+                new_lines.insert(idx, f"{indent}**Last updated:** `{today_iso}`")
                 break
 
     return "\n".join(new_lines) + "\n"  # ensure trailing newline
@@ -164,7 +176,7 @@ def update_file_on_github(new_content_b64, sha, today_iso):
         "message": f"chore: update date to {today_iso}",
         "content": new_content_b64,
         "sha": sha,
-        "branch": BRANCH
+        "branch": BRANCH,
     }
     body = json.dumps(payload).encode("utf-8")
 
@@ -184,7 +196,7 @@ def update_file_on_github(new_content_b64, sha, today_iso):
 
 
 def main():
-    today_iso = date.today().isoformat()  # e.g. "2025-06-03"
+    today_iso = date.today().isoformat()  # e.g. "2025-06-02"
     sha, old_text = get_file_info()
     new_text = build_new_content(old_text, today_iso)
 
