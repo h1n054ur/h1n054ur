@@ -2,11 +2,7 @@
   <img src="https://raw.githubusercontent.com/h1n054ur/h1n054ur/master/cipher.gif" alt="h1n054ur">
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Self-taught+developer+from+Australia;Building+things+that+shouldn't+exist;Breaking+things+that+shouldn't+break" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">A passionate self-taught developer from Australia.</h3>
 
 <p align="center">
   <a href="https://haniumer.com"><img src="https://img.shields.io/badge/Website-haniumer.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
@@ -97,14 +93,17 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/Built_with-Obsession-ff6b35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Powered_by-Coffee_&_Chaos-6F4E37?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Always_Building-58a6ff?style=flat-square"/>
 </p>
 
 <p align="center">
-  <sub>
-    <code>root@h1n054ur:~$ echo "Thanks for stopping by"</code><br>
-    <img src="https://img.shields.io/badge/Built_with-Obsession-ff6b35?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Powered_by-Coffee_&_Chaos-6F4E37?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Status-Always_Building-58a6ff?style=flat-square"/>
-  </sub>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Self-taught+developer+from+Australia;Building+things+that+shouldn't+exist;Breaking+things+that+shouldn't+break;Now+is+better+than+never." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 </p>
