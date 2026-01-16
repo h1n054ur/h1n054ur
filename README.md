@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Self-taught+developer+from+Australia;Building+things+that+shouldn't+exist;Breaking+things+that+shouldn't+break;Now+is+better+than+never." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Self-taught+developer+from+Australia;Building+things+that+shouldn't+exist;Breaking+things+that+shouldn't+break" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,23 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=h1n054ur&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<br>
-
-```
-   _     _        ___  ____  _  _
-  | |__ / |_ __  / _ \| ___|| || |___ _   _ _ __
-  | '_ \| | '_ \| | | |___ \| || / __| | | | '__|
-  | | | | | | | | |_| |___) |__   _\__ \ |_| | |
-  |_| |_|_|_| |_|\___/|____/   |_| |___/\__,_|_|
-
-  [ SYSTEM BREACH DETECTED ] ... just kidding, welcome.
-```
-
-<br>
-
-<div align="center">
+<p align="center">
   <a href="https://tinyurl.com/ecxpkcdc"><img src="https://tinyurl.com/5upvew82" alt="h1n0 Game" /></a>
-</div>
+</p>
+
+<ul align="center">
+  <a><b>Quote I Live By</b>: Now is Better than Never.</a>
+</ul>
 
 <br>
 
@@ -39,18 +29,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=h1n054ur&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</p>
-
-<br>
-
-## `> ls -la ./trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h1n054ur&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <br>
@@ -115,42 +93,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-## `> tail -f ./streak.log`
-
-<div align="center">
-
-**Current streak:** `229 days` | **Last updated:** `2026-01-16`
-
-```
-                          ████████████████████████████████
-                        ██                                ██
-                       ██   On a mission to build the      ██
-                       ██   longest streak of consecutive   ██
-                       ██   commits. No days off.           ██
-                        ██                                ██
-                          ████████████████████████████████
-```
-
-<sub>This section is automatically updated daily to maintain an unbroken chain of contributions.</sub>
-
-</div>
-
-<br>
-
-## `> cat ./quote.txt`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Now is Better than Never."                                    ║
-║                                                                  ║
-║   - The philosophy I code by                                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <br>
 
