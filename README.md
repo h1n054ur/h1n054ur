@@ -37,12 +37,12 @@
 ## `> cat /etc/stats`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=h1n054ur&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=h1n054ur&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -50,7 +50,7 @@
 ## `> ls -la ./trophies`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h1n054ur&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=h1n054ur&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <br>
