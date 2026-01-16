@@ -18,18 +18,20 @@
   <a><b>Quote I Live By</b>: Now is Better than Never.</a>
 </ul>
 
-<br>
+---
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1n054ur&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&area_color=58a6ff" alt="Activity Graph"/>
 </p>
 
-<br>
+---
 
 <table align="center">
 <tr>
@@ -82,7 +84,7 @@
 </tr>
 </table>
 
-<br>
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_with-Obsession-ff6b35?style=flat-square"/>
