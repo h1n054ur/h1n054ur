@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/h1n054ur/h1n054ur/master/cipher.gif" alt="h1n054ur">
-</h1>
-
-<h3 align="center">A passionate self-taught developer from Australia.</h3>
+<h2 align="center">A passionate self-taught developer from Australia.</h2>
 
 <p align="center">
   <a href="https://haniumer.com"><img src="https://img.shields.io/badge/Website-haniumer.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
