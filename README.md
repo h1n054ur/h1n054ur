@@ -30,14 +30,6 @@ No malware, no unauthorized deployment.
 
 ---
 
-## 🚀 Featured Projects
-
-- **HookForms** — Self-hosted webhook inbox backend for form pipelines  
-- **Ghost Lab** — Browser-native C2 research environment (learning + experimentation)  
-- **Botnet Research Archive** — Malware + botnet analysis documentation and notes  
-
----
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1n054ur&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1n054ur&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
