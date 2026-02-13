@@ -1,4 +1,6 @@
-<h2 align="center">A passionate self-taught developer from Australia.</h2>
+<h1 align="center">
+Builder of self-hosted systems, Cloudflare-native apps, and security research tools.
+</h1>
 
 <p align="center">
   <a href="https://haniumer.com"><img src="https://img.shields.io/badge/Website-haniumer.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
@@ -11,8 +13,28 @@
 </p>
 
 <ul align="center">
-  <a><b>Quote I Live By</b>: Now is Better than Never.</a>
+  <a><b>Operating Principle</b>: Ship fast. Learn faster. Own the stack.</a>
 </ul>
+
+---
+
+### ⚡ What I’m Focused On
+
+- Building **Cloudflare-native platforms** (Workers, D1, edge-first SaaS)
+- Self-hosted infrastructure + automation (Docker, Linux, ops tooling)
+- Ethical security research + pentesting labs (educational + authorized only)
+- Open-source tools that solve real workflow pain
+
+> 🔐 Security projects here are strictly for **educational and authorized testing only**.  
+No malware, no unauthorized deployment.
+
+---
+
+## 🚀 Featured Projects
+
+- **HookForms** — Self-hosted webhook inbox backend for form pipelines  
+- **Ghost Lab** — Browser-native C2 research environment (learning + experimentation)  
+- **Botnet Research Archive** — Malware + botnet analysis documentation and notes  
 
 ---
 
@@ -90,7 +112,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Self-taught+developer+from+Australia;Building+things+that+shouldn't+exist;Breaking+things+that+shouldn't+break;Now+is+better+than+never." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Full-stack+engineer+%2B+security+tinkerer;Edge-native+apps+%7C+Self-hosted+infra;Building+tools+that+solve+real+problems;Breaking+things+to+understand+them;Now+is+better+than+never." alt="Typing SVG" />
   </a>
 </p>
 
