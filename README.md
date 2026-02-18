@@ -1,5 +1,5 @@
 <h1 align="center">
-Builder of self-hosted systems, Cloudflare-native apps, and security research tools.
+Builder of self-hosted systems, Cloud-native apps, and security research tools.
 </h1>
 
 <p align="center">
