@@ -1,6 +1,3 @@
-<h1 align="center">
-Builder of self-hosted systems, Cloud-native apps, and security research tools.
-</h1>
 
 <p align="center">
   <a href="https://haniumer.com"><img src="https://img.shields.io/badge/Website-haniumer.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
