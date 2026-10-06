@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://haniumer.com"><img src="https://img.shields.io/badge/Website-haniumer.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
-  <a href="https://git.h1n054ur.dev/h1n054ur"><img src="https://img.shields.io/badge/Forgejo-git.h1n054ur.dev-FB923C?style=for-the-badge&logo=forgejo&logoColor=white" alt="Forgejo"/></a>
   <a href="https://mailhide.io/e/w2H5EHRa"><img src="https://img.shields.io/badge/Email-Reveal_Address-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=h1n054ur&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 </p>
