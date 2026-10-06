@@ -12,9 +12,9 @@
 
 ```console
 $ whoami
-hani · sydney · building at borderless technology solutions
+hani · sydney
 $ cat ~/.focus
-edge-native products on cloudflare · self-hosted infra I can rebuild from git · security research done properly
+edge-native apps on cloudflare · self-hosted infra · security research done properly
 ```
 
 <ul align="center">
@@ -25,24 +25,13 @@ edge-native products on cloudflare · self-hosted infra I can rebuild from git �
 
 ### ⚡ What I'm Focused On
 
-- **Cloudflare-native products.** Whole apps on one Worker: D1, R2, KV, Durable Objects, Queues, Email Workers. Most of my public work and the product line at Borderless Technology Solutions (status pages, file sharing, forums, CMS, AI support chat) ships this way.
-- **Self-hosted infrastructure.** A Proxmox homelab of LXC containers, k3s, Forgejo with HA failover and its own CI runners, all behind Tailscale and Cloudflare Tunnel, all rebuildable from git.
+- **Cloudflare-native apps.** Whole apps on one Worker: D1, R2, KV, Durable Objects, Queues.
+- **Self-hosted infrastructure.** Forgejo with HA failover, Docker, Ansible, Cloudflare Tunnel.
 - **Ethical security research.** Teaching labs and documented analysis, authorized testing only.
-- **Tools for my own workflow.** MCP servers, Claude Code skills, Discord and Telegram bots, a Linux desktop (CachyOS + Hyprland) set up as code.
+- **Open-source tools** that solve real workflow pain: webhook inboxes, bots, MCP servers.
 
 > 🔐 Security projects here are strictly for **educational and authorized testing only**.  
 No malware, no unauthorized deployment.
-
-```mermaid
-flowchart LR
-    dev["laptop + desktop<br/>CachyOS · Hyprland · kitty"] -->|git push| forgejo["Forgejo HA<br/>git.h1n054ur.dev"]
-    forgejo -->|mirror| github["GitHub"]
-    forgejo -->|Forgejo Actions| runners["self-hosted runners"]
-    runners -->|wrangler deploy| edge["Cloudflare<br/>Workers · D1 · R2 · DO · Queues"]
-    runners -->|compose deploy| lab["Proxmox homelab<br/>LXC · k3s · Docker"]
-    lab --- tunnel["Cloudflare Tunnel<br/>+ Tailscale"]
-    tunnel --- edge
-```
 
 ---
 
@@ -122,8 +111,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
-  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -160,12 +149,9 @@ flowchart LR
 <tr>
 <td><code>// infra</code></td>
 <td>
-  <img height="40" src="./assets/stack/infra.svg" alt="Linux, Arch, Debian, Docker, Kubernetes, Ansible, PostgreSQL, Grafana, GitHub Actions, Git"/><br/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+  <img height="40" src="./assets/stack/infra.svg" alt="Linux, Docker, Ansible, PostgreSQL, GitHub Actions, Git"/><br/>
   <img src="https://img.shields.io/badge/Forgejo-FB923C?style=flat-square&logo=forgejo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black"/>
 </td>
 </tr>
 </table>
