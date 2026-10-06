@@ -105,14 +105,13 @@ def main():
     ]
 
     c = user["contributionsCollection"]
-    stars = sum(r["stargazerCount"] for r in repos if not r["isFork"])
     stats_line = (
         f"<sub>Last 12 months: <b>{c['contributionCalendar']['totalContributions']}</b> contributions · "
         f"<b>{c['totalCommitContributions']}</b> commits · "
         f"<b>{c['totalPullRequestContributions']}</b> PRs · "
         f"<b>{c['totalIssueContributions']}</b> issues · "
-        f"<b>{user['repositories']['totalCount']}</b> public repos · "
-        f"<b>{stars}</b> stars. Refreshed {NOW:%Y-%m-%d}.</sub>"
+        f"<b>{user['repositories']['totalCount']}</b> public repos. "
+        f"Refreshed {NOW:%Y-%m-%d}.</sub>"
     )
 
     sections = {
