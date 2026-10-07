@@ -82,9 +82,9 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**uptellis**](https://github.com/bts-io/uptellis) [`v0.8.4`](https://github.com/bts-io/uptellis/releases/tag/v0.8.4) <sub>2 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>3 days ago</sub>
-- [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>9 days ago</sub>
+- [**uptellis**](https://github.com/bts-io/uptellis) [`v0.8.4`](https://github.com/bts-io/uptellis/releases/tag/v0.8.4) <sub>3 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>4 days ago</sub>
+- [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>10 days ago</sub>
 <!--LIVE:RELEASES:END-->
 
 </td>
@@ -92,11 +92,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**uptellis**](https://github.com/bts-io/uptellis) <sub>2 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>2 days ago</sub>
-- [**h1n054ur-terminal**](https://github.com/h1n054ur/h1n054ur-terminal) <sub>2 days ago</sub>
-- [**vps-git**](https://github.com/h1n054ur/vps-git) <sub>2 days ago</sub>
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>3 days ago</sub>
+- [**uptellis**](https://github.com/bts-io/uptellis) <sub>3 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>3 days ago</sub>
+- [**h1n054ur-terminal**](https://github.com/h1n054ur/h1n054ur-terminal) <sub>3 days ago</sub>
+- [**vps-git**](https://github.com/h1n054ur/vps-git) <sub>3 days ago</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>4 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -105,7 +105,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>573</b> contributions · <b>489</b> commits · <b>32</b> PRs · <b>22</b> issues · <b>45</b> public repos. Refreshed 2026-10-06.</sub>
+<sub>Last 12 months: <b>551</b> contributions · <b>473</b> commits · <b>27</b> PRs · <b>22</b> issues · <b>44</b> public repos. Refreshed 2026-10-07.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
