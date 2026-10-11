@@ -82,9 +82,9 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**uptellis**](https://github.com/bts-io/uptellis) [`v0.8.4`](https://github.com/bts-io/uptellis/releases/tag/v0.8.4) <sub>6 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>7 days ago</sub>
-- [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>13 days ago</sub>
+- [**uptellis**](https://github.com/bts-io/uptellis) [`v0.8.4`](https://github.com/bts-io/uptellis/releases/tag/v0.8.4) <sub>7 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>8 days ago</sub>
+- [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>14 days ago</sub>
 <!--LIVE:RELEASES:END-->
 
 </td>
@@ -92,11 +92,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**claude-code-h1n054ur**](https://github.com/h1n054ur/claude-code-h1n054ur) <sub>today</sub>
 - [**desktop**](https://github.com/h1n054ur/desktop) <sub>today</sub>
-- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>yesterday</sub>
-- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>2 days ago</sub>
-- [**noctalia-h1n054ur**](https://github.com/h1n054ur/noctalia-h1n054ur) <sub>2 days ago</sub>
+- [**vps-git**](https://github.com/h1n054ur/vps-git) <sub>today</sub>
+- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>today</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>today</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>today</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -105,7 +105,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>648</b> contributions · <b>561</b> commits · <b>27</b> PRs · <b>22</b> issues · <b>53</b> public repos. Refreshed 2026-10-10.</sub>
+<sub>Last 12 months: <b>648</b> contributions · <b>561</b> commits · <b>27</b> PRs · <b>22</b> issues · <b>53</b> public repos. Refreshed 2026-10-11.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
