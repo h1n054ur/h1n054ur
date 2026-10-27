@@ -80,8 +80,7 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>8 days ago</sub>
-- [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>14 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>24 days ago</sub>
 <!--LIVE:RELEASES:END-->
 
 </td>
@@ -89,11 +88,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
+- [**kitty-config**](https://github.com/h1n054ur/kitty-config) <sub>today</sub>
 - [**desktop**](https://github.com/h1n054ur/desktop) <sub>today</sub>
-- [**vps-git**](https://github.com/h1n054ur/vps-git) <sub>today</sub>
-- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>today</sub>
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>today</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>today</sub>
+- [**noctalia-glow-plugins**](https://github.com/h1n054ur/noctalia-glow-plugins) <sub>4 days ago</sub>
+- [**noctalia-h1n054ur**](https://github.com/h1n054ur/noctalia-h1n054ur) <sub>4 days ago</sub>
+- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>4 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -102,7 +101,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>648</b> contributions · <b>561</b> commits · <b>27</b> PRs · <b>22</b> issues · <b>53</b> public repos. Refreshed 2026-10-11.</sub>
+<sub>Last 12 months: <b>591</b> contributions · <b>514</b> commits · <b>26</b> PRs · <b>20</b> issues · <b>37</b> public repos. Refreshed 2026-10-27.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
