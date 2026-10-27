@@ -11,7 +11,7 @@
 
 ```console
 $ whoami
-hani · sydney
+hani
 $ cat ~/.focus
 edge-native apps on cloudflare · self-hosted infra · security research done properly
 ```
@@ -41,11 +41,9 @@ No malware, no unauthorized deployment.
 <td valign="top" width="33%">
 
 #### `// edge`
-- [**Uptellis**](https://github.com/bts-io/uptellis) status page + monitor, Workers or Docker
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) encrypted pastebin on one Worker
 - [**elm-chat**](https://github.com/h1n054ur/elm-chat) E2EE rooms on Durable Objects
-- [**hookforms-cloud**](https://github.com/h1n054ur/hookforms-cloud) webhook inbox, multi-channel alerts
-- [**PingFlare**](https://github.com/h1n054ur/PingFlare) Statuspage alternative
+- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) webhook inbox, multi-channel alerts
 - [**vinext-starter**](https://github.com/h1n054ur/vinext-starter) Next.js API on Vite, on Workers
 
 </td>
@@ -53,7 +51,7 @@ No malware, no unauthorized deployment.
 
 #### `// infra`
 - [**vps-git**](https://github.com/h1n054ur/vps-git) Forgejo HA, streaming replication, failover, Ansible
-- [**hookforms**](https://github.com/h1n054ur/hookforms) self-hosted webhook inbox
+- [**hookforms**](https://github.com/bts-io/hookforms) self-hosted webhook inbox
 - [**docker-browser**](https://github.com/h1n054ur/docker-browser) remote browser via neko + cloudflared
 - [**h1n054ur-terminal**](https://github.com/h1n054ur/h1n054ur-terminal) welcome banner + starship prompt
 - [**telegram-cloudflare-relay**](https://github.com/h1n054ur/telegram-cloudflare-relay) Telegram to anywhere
@@ -82,7 +80,6 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**uptellis**](https://github.com/bts-io/uptellis) [`v0.8.4`](https://github.com/bts-io/uptellis/releases/tag/v0.8.4) <sub>7 days ago</sub>
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>8 days ago</sub>
 - [**vps-git**](https://github.com/h1n054ur/vps-git) [`v2.0.0`](https://github.com/h1n054ur/vps-git/releases/tag/v2.0.0) <sub>14 days ago</sub>
 <!--LIVE:RELEASES:END-->

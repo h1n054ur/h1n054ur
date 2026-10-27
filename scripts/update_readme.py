@@ -15,7 +15,7 @@ from pathlib import Path
 
 USER = "h1n054ur"
 # Public repos outside the personal account that belong on the profile.
-EXTRA_REPOS = [("bts-io", "uptellis")]
+EXTRA_REPOS = [("bts-io", "hookforms"), ("bts-io", "hookforms-cloud")]
 README = Path(__file__).resolve().parent.parent / "README.md"
 NOW = datetime.now(timezone.utc)
 
