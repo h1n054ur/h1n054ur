@@ -80,7 +80,8 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>24 days ago</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>today</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>25 days ago</sub>
 <!--LIVE:RELEASES:END-->
 
 </td>
@@ -88,11 +89,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**kitty-config**](https://github.com/h1n054ur/kitty-config) <sub>today</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>today</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>today</sub>
 - [**desktop**](https://github.com/h1n054ur/desktop) <sub>today</sub>
-- [**noctalia-glow-plugins**](https://github.com/h1n054ur/noctalia-glow-plugins) <sub>4 days ago</sub>
-- [**noctalia-h1n054ur**](https://github.com/h1n054ur/noctalia-h1n054ur) <sub>4 days ago</sub>
-- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>4 days ago</sub>
+- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>today</sub>
+- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) <sub>today</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -101,7 +102,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>591</b> contributions · <b>514</b> commits · <b>26</b> PRs · <b>20</b> issues · <b>37</b> public repos. Refreshed 2026-10-27.</sub>
+<sub>Last 12 months: <b>631</b> contributions · <b>554</b> commits · <b>26</b> PRs · <b>20</b> issues · <b>37</b> public repos. Refreshed 2026-10-28.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
