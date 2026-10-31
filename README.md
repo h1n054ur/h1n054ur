@@ -80,8 +80,8 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>2 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>27 days ago</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>3 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>28 days ago</sub>
 <!--LIVE:RELEASES:END-->
 
 </td>
@@ -89,11 +89,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>yesterday</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>yesterday</sub>
-- [**desktop**](https://github.com/h1n054ur/desktop) <sub>2 days ago</sub>
-- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>2 days ago</sub>
-- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) <sub>2 days ago</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>2 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>2 days ago</sub>
+- [**desktop**](https://github.com/h1n054ur/desktop) <sub>3 days ago</sub>
+- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>3 days ago</sub>
+- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) <sub>3 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -102,7 +102,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>631</b> contributions · <b>554</b> commits · <b>26</b> PRs · <b>20</b> issues · <b>37</b> public repos. Refreshed 2026-10-30.</sub>
+<sub>Last 12 months: <b>631</b> contributions · <b>554</b> commits · <b>26</b> PRs · <b>20</b> issues · <b>37</b> public repos. Refreshed 2026-10-31.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
