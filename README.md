@@ -129,7 +129,7 @@ No malware, no unauthorized deployment.
 <table>
 <tr>
 <td width="18%"><code>// languages</code></td>
-<td><img height="40" src="./assets/stack/languages.svg" alt="TypeScript, JavaScript, Python, Bash, C"/></td>
+<td><img height="40" src="./assets/stack/languages.svg" alt="TypeScript, JavaScript, Python, Rust, Bash, C"/></td>
 </tr>
 <tr>
 <td><code>// edge apps</code></td>
