@@ -80,7 +80,7 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>6 days ago</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>7 days ago</sub>
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>1 mo ago</sub>
 <!--LIVE:RELEASES:END-->
 
@@ -89,11 +89,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>yesterday</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>yesterday</sub>
-- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>yesterday</sub>
-- [**desktop**](https://github.com/h1n054ur/desktop) <sub>yesterday</sub>
-- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>6 days ago</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>2 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>2 days ago</sub>
+- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>2 days ago</sub>
+- [**desktop**](https://github.com/h1n054ur/desktop) <sub>2 days ago</sub>
+- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>7 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -102,7 +102,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>621</b> contributions · <b>542</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>38</b> public repos. Refreshed 2026-11-03.</sub>
+<sub>Last 12 months: <b>621</b> contributions · <b>542</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>38</b> public repos. Refreshed 2026-11-04.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
