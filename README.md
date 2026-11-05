@@ -80,7 +80,8 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>7 days ago</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) [`v0.1.0`](https://github.com/h1n054ur/tubarr/releases/tag/v0.1.0) <sub>today</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>8 days ago</sub>
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>1 mo ago</sub>
 <!--LIVE:RELEASES:END-->
 
@@ -89,11 +90,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>2 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>2 days ago</sub>
-- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>2 days ago</sub>
-- [**desktop**](https://github.com/h1n054ur/desktop) <sub>2 days ago</sub>
-- [**hyprland-h1n054ur**](https://github.com/h1n054ur/hyprland-h1n054ur) <sub>7 days ago</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) <sub>today</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>3 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>3 days ago</sub>
+- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>3 days ago</sub>
+- [**desktop**](https://github.com/h1n054ur/desktop) <sub>3 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -102,7 +103,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>621</b> contributions · <b>542</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>38</b> public repos. Refreshed 2026-11-04.</sub>
+<sub>Last 12 months: <b>624</b> contributions · <b>544</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>39</b> public repos. Refreshed 2026-11-05.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
