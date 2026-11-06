@@ -80,8 +80,8 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**tubarr**](https://github.com/h1n054ur/tubarr) [`v0.1.0`](https://github.com/h1n054ur/tubarr/releases/tag/v0.1.0) <sub>today</sub>
-- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>8 days ago</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) [`v0.1.0`](https://github.com/h1n054ur/tubarr/releases/tag/v0.1.0) <sub>yesterday</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.0`](https://github.com/bts-io/hookforms/releases/tag/v0.2.0) <sub>9 days ago</sub>
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>1 mo ago</sub>
 <!--LIVE:RELEASES:END-->
 
@@ -90,11 +90,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**tubarr**](https://github.com/h1n054ur/tubarr) <sub>today</sub>
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>3 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>3 days ago</sub>
-- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>3 days ago</sub>
-- [**desktop**](https://github.com/h1n054ur/desktop) <sub>3 days ago</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>today</sub>
+- [**desktop**](https://github.com/h1n054ur/desktop) <sub>today</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>today</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) <sub>yesterday</sub>
+- [**h1n054ur-setup**](https://github.com/h1n054ur/h1n054ur-setup) <sub>4 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -103,7 +103,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>624</b> contributions · <b>544</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>39</b> public repos. Refreshed 2026-11-05.</sub>
+<sub>Last 12 months: <b>623</b> contributions · <b>544</b> commits · <b>27</b> PRs · <b>20</b> issues · <b>38</b> public repos. Refreshed 2026-11-06.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
