@@ -80,8 +80,8 @@ No malware, no unauthorized deployment.
 
 #### `// latest releases`
 <!--LIVE:RELEASES:START-->
-- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.1`](https://github.com/bts-io/hookforms/releases/tag/v0.2.1) <sub>today</sub>
-- [**tubarr**](https://github.com/h1n054ur/tubarr) [`v0.1.1`](https://github.com/h1n054ur/tubarr/releases/tag/v0.1.1) <sub>5 days ago</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) [`v0.2.1`](https://github.com/bts-io/hookforms/releases/tag/v0.2.1) <sub>yesterday</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) [`v0.1.1`](https://github.com/h1n054ur/tubarr/releases/tag/v0.1.1) <sub>6 days ago</sub>
 - [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) [`v0.2.0`](https://github.com/h1n054ur/0bin-cloudflare/releases/tag/v0.2.0) <sub>1 mo ago</sub>
 <!--LIVE:RELEASES:END-->
 
@@ -90,11 +90,11 @@ No malware, no unauthorized deployment.
 
 #### `// recently pushed`
 <!--LIVE:PUSHED:START-->
-- [**hookforms**](https://github.com/bts-io/hookforms) <sub>today</sub>
-- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) <sub>today</sub>
-- [**tubarr**](https://github.com/h1n054ur/tubarr) <sub>5 days ago</sub>
-- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>6 days ago</sub>
-- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>6 days ago</sub>
+- [**hookforms**](https://github.com/bts-io/hookforms) <sub>yesterday</sub>
+- [**hookforms-cloud**](https://github.com/bts-io/hookforms-cloud) <sub>yesterday</sub>
+- [**tubarr**](https://github.com/h1n054ur/tubarr) <sub>6 days ago</sub>
+- [**elm-chat**](https://github.com/h1n054ur/elm-chat) <sub>7 days ago</sub>
+- [**0bin-cloudflare**](https://github.com/h1n054ur/0bin-cloudflare) <sub>7 days ago</sub>
 <!--LIVE:PUSHED:END-->
 
 </td>
@@ -103,7 +103,7 @@ No malware, no unauthorized deployment.
 
 <p align="center">
 <!--LIVE:STATS:START-->
-<sub>Last 12 months: <b>623</b> contributions · <b>526</b> commits · <b>29</b> PRs · <b>34</b> issues · <b>40</b> public repos. Refreshed 2026-11-18.</sub>
+<sub>Last 12 months: <b>623</b> contributions · <b>526</b> commits · <b>29</b> PRs · <b>34</b> issues · <b>40</b> public repos. Refreshed 2026-11-19.</sub>
 <!--LIVE:STATS:END-->
 </p>
 
